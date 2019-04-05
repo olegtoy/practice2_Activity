@@ -1,0 +1,3 @@
+[submodule "AndroidSchool"]
+	path = AndroidSchool
+	url = https://github.com/olegtoy/AndroidSchool
